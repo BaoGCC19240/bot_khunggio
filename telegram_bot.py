@@ -72,7 +72,7 @@ async def send_combined_message():
 
         # Nội dung tin nhắn
         message = (
-            f"<b>          🌠🌠🌠  KHUNG GIỜ VÀNG  🌠🌠🌠</b>\n"
+            f"<b>🌠🌠🌠  KHUNG GIỜ VÀNG  🌠🌠🌠</b>\n"
             f"<b>         🌟 Ngày:</b> <i>{today}</i>\n\n"
 
             f"🎰 <b>Game HOT - {game_pg['manuf']}</b> 🎰\n"
